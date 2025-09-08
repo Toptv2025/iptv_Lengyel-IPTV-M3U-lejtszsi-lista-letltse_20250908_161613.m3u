@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/707.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVP 1 HD
+https://as01.links-tv-channels.org/707/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/6307.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVP 1
+https://as01.links-tv-channels.org/6307/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/708.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVP HD
+https://as01.links-tv-channels.org/708/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/768.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVP 2 HD
+https://as01.links-tv-channels.org/768/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/769.png" group-title="PL Poland", TVP3
+https://as01.links-tv-channels.org/769/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/730.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", Polsat HD
+https://as01.links-tv-channels.org/730/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/713.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", Polsat 2 HD
+https://as01.links-tv-channels.org/713/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/714.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", Polsat Cafe HD
+https://as01.links-tv-channels.org/714/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/716.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", Polsat Play HD
+https://as01.links-tv-channels.org/716/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/732.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", Super Polsat HD
+https://as01.links-tv-channels.org/732/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/718.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TV4 HD
+https://as01.links-tv-channels.org/718/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/750.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TTV
+https://as01.links-tv-channels.org/750/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/744.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVN HD
+https://as01.links-tv-channels.org/744/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/747.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVN 24
+https://as01.links-tv-channels.org/747/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/748.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVN 7
+https://as01.links-tv-channels.org/748/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/770.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TVP Rozrywka [PL]
+https://as01.links-tv-channels.org/770/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/10953.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TV Puls HD
+https://as01.links-tv-channels.org/10953/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11086.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", TV Republika
+https://as01.links-tv-channels.org/11086/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/724.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", BBC First HD
+https://as01.links-tv-channels.org/724/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/725.png" catchup-days="6" catchup-type="flussonic" group-title="PL Poland", BBC Earth HD
+https://as01.links-tv-channels.org/725/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19083.png" group-title="PL Poland", Fokus Tv
+https://as01.links-tv-channels.org/19083/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19084.png" group-title="PL Poland", E! Entertainment
+https://as01.links-tv-channels.org/19084/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19085.png" group-title="PL Poland", WP [PL]
+https://as01.links-tv-channels.org/19085/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19087.png" group-title="PL Poland", TVN 24 Business [PL]
+https://as01.links-tv-channels.org/19087/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19088.png" group-title="PL Poland", TV 6 [PL]
+https://as01.links-tv-channels.org/19088/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23377.png" group-title="PL Poland", TVS [PL]
+https://as01.links-tv-channels.org/23377/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23373.png" group-title="PL Poland", TTV HD
+https://as01.links-tv-channels.org/23373/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23374.png" group-title="PL Poland", TV Trwam [PL]
+https://as01.links-tv-channels.org/23374/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23375.png" group-title="PL Poland", TVP Polonia [PL]
+https://as01.links-tv-channels.org/23375/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/731.png" catchup-days="6" catchup-type="flussonic" group-title="PL News", Polsat News
+https://as01.links-tv-channels.org/731/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/733.png" group-title="PL News", Polsat News 2
+https://as01.links-tv-channels.org/733/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/774.png" group-title="PL News", TVP Info
+https://as01.links-tv-channels.org/774/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19103.png" group-title="PL News", Wydarzenia24 [PL]
+https://as01.links-tv-channels.org/19103/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/717.png" group-title="PL Educational", Animal Planet HD [PL]
+https://as01.links-tv-channels.org/717/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/721.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Discovery Historia
+https://as01.links-tv-channels.org/721/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/728.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", National Geographic [PL]
+https://as01.links-tv-channels.org/728/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/754.png" group-title="PL Educational", Planete+ HD
+https://as01.links-tv-channels.org/754/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/711.png" group-title="PL Educational", TVP Historia
+https://as01.links-tv-channels.org/711/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/723.png" group-title="PL Educational", Active Family
+https://as01.links-tv-channels.org/723/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/738.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Domo+ HD [PL]
+https://as01.links-tv-channels.org/738/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/755.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Kuchnia+ HD
+https://as01.links-tv-channels.org/755/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/779.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Adventure HD
+https://as01.links-tv-channels.org/779/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/761.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Food Network HD [PL]
+https://as01.links-tv-channels.org/761/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/776.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Polsat Doku HD
+https://as01.links-tv-channels.org/776/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/760.png" group-title="PL Educational", Travel Channel HD [PL]
+https://as01.links-tv-channels.org/760/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/745.png" group-title="PL Educational", TVN Style HD [PL]
+https://as01.links-tv-channels.org/745/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/746.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", TVN Turbo HD
+https://as01.links-tv-channels.org/746/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/772.png" group-title="PL Educational", TVP-Kultura
+https://as01.links-tv-channels.org/772/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/10969.png" group-title="PL Educational", History HD [PL]
+https://as01.links-tv-channels.org/10969/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/10970.png" group-title="PL Educational", H2 [PL]
+https://as01.links-tv-channels.org/10970/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11035.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Discovery Science HD [PL]
+https://as01.links-tv-channels.org/11035/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11036.png" group-title="PL Educational", DTX HD [PL]
+https://as01.links-tv-channels.org/11036/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11026.png" group-title="PL Educational", Polsat Viasat Explore HD
+https://as01.links-tv-channels.org/11026/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19086.png" group-title="PL Educational", Polsat Viasat Nature HD
+https://as01.links-tv-channels.org/19086/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19099.png" group-title="PL Educational", Polsat Viasat History HD
+https://as01.links-tv-channels.org/19099/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19089.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Canal+ Dokument HD
+https://as01.links-tv-channels.org/19089/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19090.png" group-title="PL Educational", Crime + Investigation HD
+https://as01.links-tv-channels.org/19090/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19092.png" group-title="PL Educational", Canal+ Kuchnia [PL]
+https://as01.links-tv-channels.org/19092/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19091.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", Discovery Channel HD [PL]
+https://as01.links-tv-channels.org/19091/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19097.png" group-title="PL Educational", ID HD
+https://as01.links-tv-channels.org/19097/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19098.png" group-title="PL Educational", TLC [PL]
+https://as01.links-tv-channels.org/19098/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19100.png" group-title="PL Educational", Nat Geo Wild [PL]
+https://as01.links-tv-channels.org/19100/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19102.png" group-title="PL Educational", Nat Geo People HD [PL]
+https://as01.links-tv-channels.org/19102/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19101.png" catchup-days="6" catchup-type="flussonic" group-title="PL Educational", HGTV [PL]
+https://as01.links-tv-channels.org/19101/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/756.png" group-title="PL Movie", Ale Kino+ HD
+https://as01.links-tv-channels.org/756/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/751.png" group-title="PL Movie", Canal+ Film HD
+https://as01.links-tv-channels.org/751/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/741.png" catchup-days="6" catchup-type="flussonic" group-title="PL Movie", Canal + Premium HD
+https://as01.links-tv-channels.org/741/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/736.png" group-title="PL Movie", Canal+ 1 HD
+https://as01.links-tv-channels.org/736/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/704.png" group-title="PL Movie", Cinemax HD [PL]
+https://as01.links-tv-channels.org/704/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/10997.png" group-title="PL Movie", Cinemax 2 HD
+https://as01.links-tv-channels.org/10997/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/771.png" group-title="PL Movie", HBO HD [PL]
+https://as01.links-tv-channels.org/771/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/701.png" group-title="PL Movie", HBO 2 HD [PL]
+https://as01.links-tv-channels.org/701/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/702.png" group-title="PL Movie", HBO 3 HD [PL]
+https://as01.links-tv-channels.org/702/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/715.png" group-title="PL Movie", Polsat Film HD
+https://as01.links-tv-channels.org/715/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/703.png" group-title="PL Movie", Comedy Central HD
+https://as01.links-tv-channels.org/703/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/757.png" group-title="PL Movie", Canal+ Seriale HD
+https://as01.links-tv-channels.org/757/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23473.png" group-title="PL Movie", Polsat Comedy Central Extra HD
+https://as01.links-tv-channels.org/23473/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/775.png" group-title="PL Movie", POLSAT Rodzina
+https://as01.links-tv-channels.org/775/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/749.png" group-title="PL Movie", TVN Fabula HD [PL]
+https://as01.links-tv-channels.org/749/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/773.png" group-title="PL Movie", TVP Seriale [PL]
+https://as01.links-tv-channels.org/773/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/1765.png" group-title="PL Movie", Warner TV [PL]
+https://as01.links-tv-channels.org/1765/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11126.png" group-title="PL Movie", AXN HD [PL]
+https://as01.links-tv-channels.org/11126/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11120.png" group-title="PL Movie", AXN Spin HD
+https://as01.links-tv-channels.org/11120/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11106.png" group-title="PL Movie", CBS Reality [PL]
+https://as01.links-tv-channels.org/11106/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11142.png" group-title="PL Movie", Epic Drama HD [PL]
+https://as01.links-tv-channels.org/11142/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11107.png" group-title="PL Movie", FX HD [PL]
+https://as01.links-tv-channels.org/11107/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11131.png" group-title="PL Movie", FilmBox Premium HD [PL]
+https://as01.links-tv-channels.org/11131/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11130.png" group-title="PL Movie", Filmbox Action HD [PL]
+https://as01.links-tv-channels.org/11130/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11129.png" group-title="PL Movie", Filmbox Family HD [PL]
+https://as01.links-tv-channels.org/11129/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19118.png" group-title="PL Movie", Filmbox Arthouse HD [PL]
+https://as01.links-tv-channels.org/19118/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19119.png" group-title="PL Movie", FilmBox Extra HD [PL]
+https://as01.links-tv-channels.org/19119/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19108.png" group-title="PL Movie", 13 Ulica
+https://as01.links-tv-channels.org/19108/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19109.png" group-title="PL Movie", AMC [PL]
+https://as01.links-tv-channels.org/19109/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19122.png" group-title="PL Movie", FX Comedy HD [PL]
+https://as01.links-tv-channels.org/19122/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19123.png" group-title="PL Movie", Kino Polska HD
+https://as01.links-tv-channels.org/19123/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19124.png" group-title="PL Movie", Kino TV
+https://as01.links-tv-channels.org/19124/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19126.png" group-title="PL Movie", SciFi [PL]
+https://as01.links-tv-channels.org/19126/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19127.png" group-title="PL Movie", Sundance TV HD [PL]
+https://as01.links-tv-channels.org/19127/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23486.png" group-title="PL Movie", Novelas+ [PL]
+https://as01.links-tv-channels.org/23486/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23437.png" group-title="PL Movie", Paramount Channel [PL]
+https://as01.links-tv-channels.org/23437/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23372.png" group-title="PL Movie", Tele 5 [PL]
+https://as01.links-tv-channels.org/23372/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/729.png" group-title="PL Kids", MiniMini+ HD
+https://as01.links-tv-channels.org/729/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/777.png" group-title="PL Kids", JimJam
+https://as01.links-tv-channels.org/777/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/753.png" group-title="PL Kids", Teletoon+ HD
+https://as01.links-tv-channels.org/753/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/712.png" group-title="PL Kids", TVP ABC
+https://as01.links-tv-channels.org/712/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11089.png" group-title="PL Kids", Cartoonito HD [PL]
+https://as01.links-tv-channels.org/11089/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11097.png" group-title="PL Kids", Disney Channel HD [PL]
+https://as01.links-tv-channels.org/11097/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11090.png" group-title="PL Kids", Disney XD [PL]
+https://as01.links-tv-channels.org/11090/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19133.png" group-title="PL Kids", Disney Junior [PL]
+https://as01.links-tv-channels.org/19133/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23387.png" group-title="PL Kids", Nickelodeon [PL]
+https://as01.links-tv-channels.org/23387/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23389.png" group-title="PL Kids", Nick Jr [PL]
+https://as01.links-tv-channels.org/23389/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23386.png" group-title="PL Kids", Nicktoons [PL]
+https://as01.links-tv-channels.org/23386/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11038.png" group-title="PL Kids", Da Vinci [PL]
+https://as01.links-tv-channels.org/11038/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/11039.png" catchup-days="6" catchup-type="flussonic" group-title="PL Kids", Puls 2 [PL]
+https://as01.links-tv-channels.org/11039/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/706.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Eleven Sports 1 HD
+https://as01.links-tv-channels.org/706/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/6917.png" group-title="PL Sport", Eleven Sports 1
+https://as01.links-tv-channels.org/6917/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/705.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Eleven Sports 2 HD
+https://as01.links-tv-channels.org/705/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/6918.png" group-title="PL Sport", Eleven Sports 2
+https://as01.links-tv-channels.org/6918/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/758.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Eleven Sports 3 HD
+https://as01.links-tv-channels.org/758/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/6919.png" group-title="PL Sport", Eleven Sports 3
+https://as01.links-tv-channels.org/6919/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/759.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Eleven Sports 4 HD
+https://as01.links-tv-channels.org/759/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/5870.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport
+https://as01.links-tv-channels.org/5870/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/742.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport HD [PL]
+https://as01.links-tv-channels.org/742/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/737.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport 2 HD [PL]
+https://as01.links-tv-channels.org/737/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/1766.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport 3 HD [PL]
+https://as01.links-tv-channels.org/1766/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/1767.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport 4 HD [PL]
+https://as01.links-tv-channels.org/1767/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/709.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Canal+ Sport 5 HD [PL]
+https://as01.links-tv-channels.org/709/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/734.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport 1 HD [PL]
+https://as01.links-tv-channels.org/734/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/735.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport 2 HD [PL]
+https://as01.links-tv-channels.org/735/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19140.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport 3 HD [PL]
+https://as01.links-tv-channels.org/19140/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/762.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Premium 1 [PL]
+https://as01.links-tv-channels.org/762/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/763.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Premium 2 [PL]
+https://as01.links-tv-channels.org/763/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23436.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Extra 1 [PL]
+https://as01.links-tv-channels.org/23436/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23438.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Extra 2 [PL]
+https://as01.links-tv-channels.org/23438/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23434.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Extra 3 [PL]
+https://as01.links-tv-channels.org/23434/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23435.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", Polsat Sport Extra 4 [PL]
+https://as01.links-tv-channels.org/23435/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23433.png" group-title="PL Sport", Polsat Sport Fight HD [PL]
+https://as01.links-tv-channels.org/23433/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/726.png" group-title="PL Sport", Fightklub HD
+https://as01.links-tv-channels.org/726/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23891.png" group-title="PL Sport", Eurosport 1 HD [PL]
+https://as01.links-tv-channels.org/23891/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/743.png" group-title="PL Sport", Eurosport 2 HD [PL]
+https://as01.links-tv-channels.org/743/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/727.png" group-title="PL Sport", Motowizja HD
+https://as01.links-tv-channels.org/727/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/720.png" group-title="PL Sport", Sport Klub HD
+https://as01.links-tv-channels.org/720/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/710.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", TVP Sport HD
+https://as01.links-tv-channels.org/710/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19137.png" group-title="PL Sport", Fightbox HD [PL]
+https://as01.links-tv-channels.org/19137/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19139.png" group-title="PL Sport", Golf Channel
+https://as01.links-tv-channels.org/19139/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19142.png" group-title="PL Sport", Extreme Sports HD [PL]
+https://as01.links-tv-channels.org/19142/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19143.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 1 [PL]
+https://as01.links-tv-channels.org/19143/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19144.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 2 [PL]
+https://as01.links-tv-channels.org/19144/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19145.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 3 [PL]
+https://as01.links-tv-channels.org/19145/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19146.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 4 [PL]
+https://as01.links-tv-channels.org/19146/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19147.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 5 [PL]
+https://as01.links-tv-channels.org/19147/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19148.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 6 [PL]
+https://as01.links-tv-channels.org/19148/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19149.png" catchup-days="6" catchup-type="flussonic" group-title="PL Sport", CANAL+ EXTRA 7 [PL]
+https://as01.links-tv-channels.org/19149/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/752.png" group-title="PL Sport", CANAL+ 360 HD [PL]
+https://as01.links-tv-channels.org/752/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/16919.png" group-title="PL Music", VOX MUSIC TV [PL]
+https://as01.links-tv-channels.org/16919/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/19125.png" group-title="PL Music", Disco Polo Music
+https://as01.links-tv-channels.org/19125/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/778.png" group-title="PL Music", Polsat Music
+https://as01.links-tv-channels.org/778/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/719.png" group-title="PL Music", Kino Polska Muzyka
+https://as01.links-tv-channels.org/719/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23409.png" group-title="PL Music", MTV Live HD [PL]
+https://as01.links-tv-channels.org/23409/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/23407.png" group-title="PL Music", MTV POLSKA [PL]
+https://as01.links-tv-channels.org/23407/index.m3u8?token=pQVqFWfmyKQwsS
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
